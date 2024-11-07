@@ -4,4 +4,4 @@ private_subnet = ["172.16.1.0/24"]
 ami            = "ami-0e86e20dae9224db8"
 instance-type  = "t2.micro"
 key            = "vockey"
-path_key       = "D:\\Terraform\\Practico3"
+path_key       = "E:\\ORT\\ISC\\Terraform\\labsuser.pem"
